@@ -82,7 +82,7 @@ nav.active .toggle .line{
 #chk{
     display: none;
 }
-@media (max-width:400px) {
+@media (max-width:500px) {
 .img1{
     height: 60vh;
 }
